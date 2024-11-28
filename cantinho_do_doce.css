@@ -1,0 +1,41 @@
+#flor{
+    text-align:center;
+    
+}
+
+
+.amor{
+    text-align: center;
+}
+
+
+h1{
+    background-color: aqua;
+}
+
+
+#oi{
+    background-color: blueviolet;
+    color: white;
+}
+#a{
+   background-color: palevioletred;
+   color: white; 
+}
+#b{
+    background-color: brown;
+    color: white;
+}
+#c{
+    background-color: cornflowerblue;
+    color: white;
+}
+#d{
+    text-align: center;
+    background-color: coral;
+    color: white;
+}
+
+body{
+    background-color: deeppink;
+}

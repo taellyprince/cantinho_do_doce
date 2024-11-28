@@ -1,0 +1,14 @@
+#a{
+    text-align: center;
+}
+#b{
+    float: left;
+    
+}
+#c{
+    float: right;
+    }
+
+    body{
+        background-color: blueviolet;
+    }
